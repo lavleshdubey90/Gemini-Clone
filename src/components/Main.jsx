@@ -10,25 +10,25 @@ const Main = () => {
         {
             id: 1,
             para: "Suggest beautiful places to see on an upcoming road trip",
-            imgUrl: "./src/assets/compass_icon.png",
+            imgUrl: assets.compass_icon,
             alt: "compass"
         },
         {
             id: 2,
             para: "Briefly summarize this concept: urban planning",
-            imgUrl: "./src/assets/bulb_icon.png",
+            imgUrl: assets.bulb_icon,
             alt: "bulb"
         },
         {
             id: 3,
             para: "Brainstorm team bonding activities for our work retreat",
-            imgUrl: "./src/assets/message_icon.png",
+            imgUrl: assets.message_icon,
             alt: "message"
         },
         {
             id: 4,
             para: "Tell me about React js and React native",
-            imgUrl: "./src/assets/code_icon.png",
+            imgUrl: assets.code_icon,
             alt: "code"
         },
     ];
